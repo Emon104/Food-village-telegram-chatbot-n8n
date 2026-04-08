@@ -56,4 +56,4 @@ Telegram (Send reply to customer)
 ![FAQ](faq.jpg)
 
 ### Telegram Bot in Action
-![Telegram](screenshots/telegram.jpg)
+![Telegram](telegram.jpg)
