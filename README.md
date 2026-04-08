@@ -27,6 +27,7 @@ automatically through Google Sheets.
 - Google Sheets API — Live database
 
 ## Workflow Structure
+```
 Telegram Trigger
        ↓
 AI Agent (Google Gemini)
@@ -35,9 +36,10 @@ Google Sheets Tool (Read Inventory + FAQ)
        ↓
 IF Order Confirmed + In Stock
        ↓
-Google Sheets Tool (Write to Orders) 
+Google Sheets Tool (Write to Orders)
        ↓
 Telegram (Send reply to customer)
+```
 
 ## Screenshots
 
