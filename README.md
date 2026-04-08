@@ -28,30 +28,30 @@ automatically through Google Sheets.
 
 ## Workflow Structure
 Telegram Trigger
-↓
+       ↓
 AI Agent (Google Gemini)
-↓
+       ↓
 Google Sheets Tool (Read Inventory + FAQ)
-↓
+       ↓
 IF Order Confirmed + In Stock
-↓
-Google Sheets Tool (Write to Orders)
-↓
+       ↓
+Google Sheets Tool (Write to Orders) 
+       ↓
 Telegram (Send reply to customer)
 
 ## Screenshots
 
 ### n8n Workflow
-![n8n Workflow](screenshots/workflow.jpg)
+![n8n Workflow](workflow.jpg)
 
 ### Inventory Database
-![Inventory](screenshots/inventory.jpg)
+![Inventory](inventory.jpg)
 
 ### Orders Database
-![Orders](screenshots/orders.jpg)
+![Orders](orders.jpg)
 
 ### FAQ Database
-![FAQ](screenshots/faq.jpg)
+![FAQ](faq.jpg)
 
 ### Telegram Bot in Action
 ![Telegram](screenshots/telegram.jpg)
